@@ -1,0 +1,22 @@
+{
+  "name": "gazeta",
+  "version": "1.0.0",
+  "description": "Gazeta Periodistica Front end ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/calimania/gazeta.git"
+  },
+  "keywords": [
+    "gazeta"
+  ],
+  "author": "calimania",
+  "license": "SEE LICENSE IN LICENSE",
+  "bugs": {
+    "url": "https://github.com/calimania/gazeta/issues"
+  },
+  "homepage": "https://github.com/calimania/gazeta#readme"
+}
